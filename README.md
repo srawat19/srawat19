@@ -3,7 +3,7 @@
 
 Thanks for visting my profile 😊  
 
-I’m a backend developer with experience in building enterprise applications using C#, .NET, and related technologies. 
+I’m primarily a backend developer with hands-on experience in frontend technologies like ASP.NET, WPF, Angular JS and Node JS. 
 
 If you are curious about my work, please feel free to check out my [LinkedIn](https://www.linkedin.com/in/a28-shivangi-rawat/).
 
